@@ -1,0 +1,10 @@
+servicediscovery/HelloType.class
+serviceproxy/SomeDatabaseService.class
+servicediscovery/HelloService.class
+serviceproxy/SomeDatabaseServiceVertxEBProxy.class
+servicediscovery/HelloTypeImpl.class
+serviceproxy/SomeDatabaseServiceImpl.class
+serviceproxy/MyDatabaseConnection.class
+io/vertx/book/message/HelloConsumerMicroservice.class
+servicediscovery/HelloServiceImpl.class
+servicediscovery/HelloReference.class

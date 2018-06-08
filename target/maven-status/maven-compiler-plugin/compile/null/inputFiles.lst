@@ -1,0 +1,10 @@
+/home/geanfelipe/apache-tomcat-7.0.82/webapps/teste-vertx/src/main/java/serviceproxy/MyDatabaseConnection.java
+/home/geanfelipe/apache-tomcat-7.0.82/webapps/teste-vertx/src/main/java/serviceproxy/SomeDatabaseService.java
+/home/geanfelipe/apache-tomcat-7.0.82/webapps/teste-vertx/src/main/java/servicediscovery/HelloServiceImpl.java
+/home/geanfelipe/apache-tomcat-7.0.82/webapps/teste-vertx/src/main/java/serviceproxy/SomeDatabaseServiceVertxEBProxy.java
+/home/geanfelipe/apache-tomcat-7.0.82/webapps/teste-vertx/src/main/java/io/vertx/book/message/HelloConsumerMicroservice.java
+/home/geanfelipe/apache-tomcat-7.0.82/webapps/teste-vertx/src/main/java/servicediscovery/HelloType.java
+/home/geanfelipe/apache-tomcat-7.0.82/webapps/teste-vertx/src/main/java/servicediscovery/HelloTypeImpl.java
+/home/geanfelipe/apache-tomcat-7.0.82/webapps/teste-vertx/src/main/java/serviceproxy/SomeDatabaseServiceImpl.java
+/home/geanfelipe/apache-tomcat-7.0.82/webapps/teste-vertx/src/main/java/servicediscovery/HelloService.java
+/home/geanfelipe/apache-tomcat-7.0.82/webapps/teste-vertx/src/main/java/servicediscovery/HelloReference.java
